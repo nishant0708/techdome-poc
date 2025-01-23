@@ -11,3 +11,5 @@ venv/
 venv
 checkpoints/*.pt
 demo/backend/checkpoints/*.pt
+videos/*
+*.mp4
